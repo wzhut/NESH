@@ -1,0 +1,5 @@
+Our own approach and HP-Local(SNETD) are implemented using Pytorch. A sample running script is provided, i.e. run.sh.
+
+CP-NPTF and GP-NPTF are implemented using Tensorflow 1.14. Sample running scripts are provided in corresponding folders.
+
+CP-PTF, GP-PTF and CPStep-PTF are implemented using matlab R2018b. Sample running scripts are provided in corresponding folders.
